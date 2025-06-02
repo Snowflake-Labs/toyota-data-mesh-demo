@@ -10,3 +10,10 @@ This demo shows how to set up a Central Ingest, Federated Domain data mesh-style
 4. Run `setup/02_setup_data_mesh.sql` to create your data mesh.
 5. Run `setup/03_insert_toyota_data.sql` to insert sample data.
 6. Explore the central ingest, federated domains data mesh!
+
+## License
+Copyright (c) Snowflake Inc.  
+This project's codebase is licensed under the Apache License 2.0. You can find the full text of this license in the LICENSE file at the root of this repository.
+
+Copyright (c) Toyota Motor Coporation  
+The data located in the data/ directory is separately licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. The complete terms of this license are available in the LICENSE-DATA file.
