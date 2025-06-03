@@ -1,6 +1,6 @@
 # toyota-data-mesh-demo
 
-This demo shows how to set up a Central Ingest, Federated Domain data mesh-style architecture on on Snowflake using both Snowflake tables and managed Apache Iceberg™ tables.
+This demo shows how to set up a Central Ingest, Federated Domain data mesh-style architecture on Snowflake using both Snowflake tables and managed Apache Iceberg™ tables. Details around this and other architecture patterns can be found in the article, https://medium.com/snowflake/practical-implementation-of-federated-architecture-with-snowflake-features-154af30792a7.
 
 1. Run `setup/01_db_setup.sql` in a [worksheet](https://app.snowflake.com/_deeplink/worksheets/?utm_source=snowflake&utm_medium=github&utm_campaign=summit25builderkeynote&utm_content=-app-toyota-data-mesh-demo).
 2. Upload files to `TOYOTA.ADMIN.SETUP_STAGE`
